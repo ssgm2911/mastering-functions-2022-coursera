@@ -1,6 +1,10 @@
 from textblob import TextBlob
 import wikipedia
 
+import nltk
+
+nltk.download("punkt_tab")
+
 
 def search_wikipedia(name):
     """Search wikipedia"""
