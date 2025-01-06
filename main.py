@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 import uvicorn
 from nlplogic.corenlp import get_phrases
+import nltk
+
+nltk.download("punkt_tab")
 
 app = FastAPI()
 
