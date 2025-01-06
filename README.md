@@ -1,4 +1,4 @@
-[![Python application test with Github Actions](https://github.com/nogibjj/mastering-functions-2022/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/mastering-functions-2022/actions/workflows/main.yml)
+[![Python application test with Github Actions](https://github.com/ssgm2911/mastering-functions-2022-coursera/actions/workflows/main.yml/badge.svg)](https://github.com/ssgm2911/mastering-functions-2022-coursera/actions/workflows/main.yml)
 
 # mastering-functions-2022
 This is a repo for mastering Python functions
